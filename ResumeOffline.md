@@ -18,8 +18,7 @@
      </div>
  </center>
 
-
- ## <img src="D:\myBlog\Resume\assets\info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1995 年出生
  - 求职意向：Android 研发工程师
@@ -27,7 +26,7 @@
  - 教育背景：2014.09~2018.06   江苏大学，电子信息工程专业，获得CET6证书。
  - 个人博客：https://weiwangqiang.github.io
 
-## <img src="D:\myBlog\Resume\assets\tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 掌握Android常用组件、AIDL、自定义View，了解AMS，事件分发，ANR实现原理。
 - 掌握Profile，Perfetto，Systrace，Leakcanary等分析工具，有性能优化经验。
@@ -38,79 +37,79 @@
 - 了解Python、C++、HTML、JS基本用法，了解Flutter基本开发。
 
 
-## <img src="D:\myBlog\Resume\assets\briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **CVTE，TV 研发部门，Android 工程师，2018.07~至今**
 
-  主要工作：负责 TV预装应用，如Settings、电视管家、多媒体、FTV语音的研发和维护工作，处理应用国际化的需求。
-
-  效率改善：开发在线签名网站，实现傻瓜式签名；扩展翻译库后端功能，实现翻译进度可视化。
-
+   主要工作：负责 TV预装应用，如Settings、电视管家、多媒体、FTV语音的研发和维护工作，处理应用国际化的需求。
+   
+   效率改善：开发在线签名网站，实现傻瓜式签名；扩展翻译库后端功能，实现翻译进度可视化。
+   
 - **触宝科技，电话部门，Android开发实习，2017.7~2017.10**
 
-  主要工作：负责触宝电话中红人馆模块首页的开发。
+   主要工作：负责触宝电话中红人馆模块首页的开发。
 
-## <img src="D:\myBlog\Resume\assets\project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **FTV 语音，2020.10 ~ 2022.06**
 
   *Retrofit，Glide，WindowView，RecyclerView，ROOM，AudioRecord，SoundPool*
 
   描述：FTV语音是TV端的产品，包含远场唤醒、音乐影视的点播和控制，天气、股票、所见所喊、打开应用，闹钟，百科等功能。
-
+  
   职责：
-
+  
   - 独自负责TV端应用框架的搭建和一期的功能开发，以及扩展研究院关于TV前期的NLU、NLP技能。
-
+  
   - 负责二期迭代的闹钟功能，包含闹钟设置、提醒、查看、删除。
-
+  
   技术要点：
-
+  
   - 使用自定义view实现炫酷的动画效果，通过WindowManager添加全局的bar条。
   - 使用profile 分析Java，native层内存分配，解决近10M的内存泄漏问题和启动异常。
   - 使用systrace分析App端链路耗时，按需解析json数据，降低82%的耗时。
-
+  
 - **Settings，2019.06~至今**
 
   *WifiManager，BluetoothAdapter*
 
   描述：包含网络配置，蓝牙，系统信息，系统OTA，时间等功能。
-
+  
   职责：
-
+  
   - 负责wifi和蓝牙关于Android版本的适配工作，系统OTA，时间等功能维护。
-
+  
   - 开发有线网、wifi、蓝牙、系统信息等接口，作为SDK提供给AR眼镜使用。
-
+  
   技术要点：
-
+  
   - 查看Android Framework源码，适配Android 11的蓝牙功能。
   - 通过Hook，代理技术，在不依赖系统接口的情况下，实现网络，蓝牙、系统信息接口的开发。
-
+  
 - **多媒体，2021.03~2022.08**
 
   *MediaPlay，Glide*
 
   描述：包含文件浏览，音视频的播放，高清图片播放，文件管理等。
-
+  
   职责：负责多媒体音乐播放页面的开发，播放设置页面的维护工作。
-
+  
   技术要点：
-
+  
   - 通过MediaPlayer，service实现前后台音乐播放。
-
+  
 - **电视管家，2020.04~2022.10**
 
   *PMS*
-
+  
   描述：包含内存优化、网络监控、启动控制、深度清理等。
-
+  
   职责：负责电视管家的深度清理功能的开发，内存清理，应用自启动等功能的维护。
-
+  
   技术要点：
-
+  
   - 替换掉android.jar，来绕过PackageManager的接口限制，再通过PMS实现应用数据，垃圾的清理。
-
+  
 - **在线签名，2019.03~至今**
 
   *Python，Shell，Html*
@@ -131,9 +130,9 @@
   描述：翻译需求管理和进度的可视化。
 
   职责：主要开发翻译需求的提交、估价、翻译回稿的逆向、导入翻译到MongoDB等接口。
-
+  
   技术要点：
-
+  
   - 使用SpringBoot搭建后端接口。
   - MongoDB作为翻译数据库，提高数据库插入速度。
   - 使用Python爬取Google，必应翻译接口，实现自动化批量翻译。
