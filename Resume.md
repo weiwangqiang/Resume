@@ -19,7 +19,7 @@
  </center>
 
 
- ## <img src="D:\myBlog\Resume\assets\info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1995 年出生
  - 求职意向：Android 研发工程师
@@ -27,7 +27,7 @@
  - 教育背景：2014.09~2018.06   江苏大学，电子信息工程专业，获得CET6证书。
  - 个人博客：https://weiwangqiang.github.io
 
-## <img src="D:\myBlog\Resume\assets\tools-solid.svg" width="30px"> 技能清单
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
 - 掌握Android常用组件、AIDL、自定义View，了解AMS，事件分发，ANR实现原理。
 - 掌握Profile，Perfetto，Systrace，Leakcanary等分析工具，有性能优化经验。
@@ -38,7 +38,7 @@
 - 了解Python、C++、HTML、JS基本用法，了解Flutter基本开发。
 
 
-## <img src="D:\myBlog\Resume\assets\briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
 - **CVTE，TV 研发部门，Android 工程师，2018.07~至今**
 
@@ -50,7 +50,7 @@
 
   主要工作：负责触宝电话中红人馆模块首页的开发。
 
-## <img src="D:\myBlog\Resume\assets\project-diagram-solid.svg" width="30px"> 项目经历
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
 - **FTV 语音，2020.10 ~ 2022.06**
 
